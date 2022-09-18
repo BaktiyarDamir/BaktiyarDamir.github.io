@@ -1,4 +1,4 @@
-# BaktiyarDamir.github.io
+# Бактияр Дамир
 Домашнее задание на тему второго урока
 <!DOCTYPE html>
 <html lang="en">
